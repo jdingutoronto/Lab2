@@ -6,8 +6,11 @@ public class DataTypes {
 
         int s = 0;
         // below is a "foreach" loop which iterates through numbers
-        for (int x : numbers) {
-            s += x;
+//        for (int x : numbers) {
+//            s += x;
+//        }
+        for (int i = 0; i < numbers.size(); i++) {
+            s += i;
         }
         return s;
     }
