@@ -19,8 +19,9 @@
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
 
-
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+
+7. Bake for 5 hours
